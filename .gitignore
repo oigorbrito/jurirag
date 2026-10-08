@@ -1,0 +1,16 @@
+﻿# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.venv/
+env/
+venv/
+# Data / large files
+*.zip
+*.tar.gz
+*.pdf
+# IDE / editor files
+.idea/
+.vscode/
+.DS_Store
