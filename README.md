@@ -151,3 +151,20 @@ As respostas passam por um processo de refinamento em duas etapas:
 - Otimização das layers para ser utilizada na Lambda
 - Utilização do Amazon Bedrock para retornar respostas com base nos arquivos
 - Implementação do bot ao telegram"
+
+## 📜 Créditos
+
+Este projeto foi criado por **Igor Brito**.  
+A licença MIT (versão em português) está disponível no arquivo [LICENSE](LICENSE).
+
+## 🪪 Licença
+
+Distribuído sob a licença MIT. Consulte o arquivo [LICENSE](LICENSE) para mais detalhes.
+
+## 📚 Documentação Defensável
+
+A documentação completa e defensável do projeto está disponível em:
+
+- [Defensive Documentation](docs/defensive_documentation.md)
+
+Esta página contém visão geral, instalações, uso, arquitetura, contribuição e licença, tudo com a atribuição correta ao autor.
